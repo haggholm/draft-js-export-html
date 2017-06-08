@@ -21,7 +21,6 @@
     "immutable": "3.x.x"
   },
   "devDependencies": {
-    "@types/draft-js": "^0.7.33",
     "babel-cli": "^6.10.1",
     "babel-core": "^6.9.1",
     "babel-eslint": "^7.0.0",
